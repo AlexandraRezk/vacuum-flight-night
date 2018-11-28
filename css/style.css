@@ -8,6 +8,19 @@ body{
     margin: 0;
 }
 
+a{
+    color: white;
+}
+
+a:hover{
+    color: blue;
+}
+
+
+a:visited{
+    color:white;
+}
+
 #wrongWay{
     width: 100vw;
     height: 100vw;
